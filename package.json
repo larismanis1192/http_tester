@@ -1,0 +1,26 @@
+{
+  "name": "http_tester",
+  "version": "1.0.0",
+  "description": "http tester",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://larismanis1192:lmu.1192@github.com/larismanis1192/http_tester.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "trisna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larismanis1192/http_tester/issues"
+  },
+  "homepage": "https://github.com/larismanis1192/http_tester#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
